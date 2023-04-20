@@ -1,0 +1,36 @@
+MotionNotify 1736 76
+sleep 3
+ButtonPress 1
+sleep 3
+ButtonRelease 1
+sleep 3
+MotionNotify 1709 128
+sleep 3
+ButtonPress 1
+sleep 3
+ButtonRelease 1
+sleep 3
+MotionNotify 1709 138
+sleep 3
+ButtonPress 1
+sleep 3
+ButtonRelease 1
+sleep 3
+MotionNotify 1624 133
+sleep 3
+ButtonPress 1
+sleep 3
+ButtonRelease 1
+sleep 3
+MotionNotify 1624 132
+sleep 3
+ButtonPress 1
+sleep 3
+ButtonRelease 1
+sleep 3
+MotionNotify 1779 205
+sleep 3
+ButtonPress 1
+sleep 3
+ButtonRelease 1
+sleep 3
